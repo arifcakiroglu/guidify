@@ -5,9 +5,20 @@
 
 ## Quick start
 
+Let's generate a new Guid instance.
+
 ```
-npm install guidify
+ var guidify = require("guidify");
+
+console.log(guidify());
+
 ```
+
+## Installation
+
+(sorry currently unavailable)
+You can use npm to install guid: `npm install guidify`
+
 
 [![browser support](https://ci.testling.com/arifcakiroglu/guidify.png)
 ](https://ci.testling.com/arifcakiroglu/guidify)
