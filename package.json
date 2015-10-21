@@ -4,7 +4,24 @@
   "description": "Globally unique identifier",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha -R spec -u tdd tests/*.js"
+  },
+  "devDependencies": {
+    "mocha": "~1.14.0"
+  },
+  "testling": {
+    "browsers": {
+      "ie": [ 6, 7, 8, 9, 10 ],
+      "ff": [ 24, 25, "nightly" ],
+      "chrome": [ 28, 29, 30, 31, "canary" ],
+      "safari": [ "5.0.5", 5.1 ],
+      "android-browser": [ 4.2 ],
+      "opera": [ 17, "next" ],
+      "iphone": [ 6 ],
+      "ipad": [ 6 ]
+    },
+    "harness" : "mocha-tdd",
+    "files": "tests/*.js"
   },
   "repository": {
     "type": "git",
