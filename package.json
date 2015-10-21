@@ -25,19 +25,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arifcakiroglu/guidfy.git"
+    "url": "git+https://github.com/arifcakiroglu/guidify.git"
   },
   "keywords": [
     "unique",
     "id",
     "unique",
     "guid",
-    "guidfy"
+    "guidify"
   ],
   "author": "Arif Cakiroglu <cakirogluarif@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/arifcakiroglu/guidfy/issues"
+    "url": "https://github.com/arifcakiroglu/guidify/issues"
   },
-  "homepage": "https://github.com/arifcakiroglu/guidfy#readme"
+  "homepage": "https://github.com/arifcakiroglu/guidify#readme"
 }

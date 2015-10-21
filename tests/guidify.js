@@ -2,10 +2,8 @@
 /**
  * Module dependencies.
  */
-
 var Guidify = require('../index.js');
 var assert = require('assert');
-
 
 suite('\033[36m Test Guid generation \033[90m', function() {
   test('unique', function(done) {

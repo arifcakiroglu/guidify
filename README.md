@@ -1,4 +1,4 @@
-# guidfy
+# Guidify
 
 * Globally unique identifier for nodejs. I need this sometimes :)
 
@@ -9,5 +9,5 @@
 npm install guidify
 ```
 
-[![browser support](https://ci.testling.com/arifcakiroglu/max-by.png)
-](https://ci.testling.com/arifcakiroglu/max-by)
+[![browser support](https://ci.testling.com/arifcakiroglu/guidify.png)
+](https://ci.testling.com/arifcakiroglu/guidify)
