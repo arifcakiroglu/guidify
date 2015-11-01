@@ -20,5 +20,3 @@ console.log(guidify());
 You can use npm to install guid: `npm install guidify`
 
 
-[![browser support](https://ci.testling.com/arifcakiroglu/guidify.png)
-](https://ci.testling.com/arifcakiroglu/guidify)
