@@ -1,6 +1,6 @@
 # Guidify
 
-![travis](https://img.shields.io/travis/arifcakiroglu/guidify.svg)
+[![travis](https://img.shields.io/travis/arifcakiroglu/guidify.svg)](https://travis-ci.org/arifcakiroglu/guidify)
 
 * Globally unique identifier for nodejs.
 
