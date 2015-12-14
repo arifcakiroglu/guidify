@@ -1,9 +1,10 @@
 {
-  "name": "guidfy",
-  "version": "0.0.1",
+  "name": "guidify",
+  "version": "1.1.2",
   "description": "Globally unique identifier",
   "main": "index.js",
   "scripts": {
+    "commit": "git-cz",
     "test": "mocha -R spec -u tdd tests/*.js"
   },
   "devDependencies": {
@@ -14,8 +15,6 @@
     "url": "git+https://github.com/arifcakiroglu/guidify.git"
   },
   "keywords": [
-    "unique",
-    "id",
     "unique",
     "guid",
     "guidify"

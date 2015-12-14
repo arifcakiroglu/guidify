@@ -1,6 +1,6 @@
 # Guidify
 
-* Globally unique identifier for nodejs. I need this sometimes :)
+* Globally unique identifier for nodejs.
 
 
 ## Quick start
@@ -16,7 +16,6 @@ console.log(guidify());
 
 ## Installation
 
-(sorry currently unavailable)
 You can use npm to install guid: `npm install guidify`
 
 
